@@ -6,6 +6,7 @@ class CompanySerializer(ModelSerializer):
     class Meta:
         model = Company
         fields = (
+            "pk",
             "name",
             "country",
             "is_active",
