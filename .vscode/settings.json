@@ -1,0 +1,10 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.rulers": [
+            0,
+            80
+        ]
+    },
+    "editor.formatOnSave": true,
+}
